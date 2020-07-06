@@ -1,4 +1,3 @@
-package com.mycompany.hackerrank;
 
 import java.io.IOException;
 import java.util.HashMap;
